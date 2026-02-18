@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.git/
+.pytest_cache/
+.coverage
+htmlcov/
+tests/
+unit_tests/
+scripts/
+migrations/
+*.md
+.cursor/

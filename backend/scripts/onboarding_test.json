@@ -1,0 +1,16 @@
+{
+    "ageRange": "senior",
+    "weeklyTrainingDays": "moderate",
+    "availableEquipment": ["goals", "wall", "cones", "ball"],
+    "strengths": ["fitness"],
+    "dailyTrainingTime": "More than 2 hours",
+    "primaryGoal": "have_fun",
+    "position": "center_back",
+    "areasToImprove": ["defending", "shooting", "first_touch"],
+    "trainingLocation": ["full_field"],
+    "biggestChallenge": ["injury"],
+    "trainingExperience": "intermediate",
+    "playstyle": ["Big Bob"],
+    "email": "jc17@gmail.com",
+    "password": "123"
+} 

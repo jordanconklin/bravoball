@@ -1,0 +1,44 @@
+# ===== Shared =====
+.DS_Store
+.env
+*.log
+*.swp
+.idea/
+.vscode/
+.cursor/
+
+# ===== Python / Backend =====
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+test.db
+
+# ===== Flutter / Frontend =====
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+frontend/build/
+*.class
+*.iml
+*.ipr
+*.iws
+app.*.symbols
+app.*.map.json
+frontend/android/app/debug
+frontend/android/app/profile
+frontend/android/app/release
+migrate_working_dir/
+
+# ===== Docker =====
+docker-data/
